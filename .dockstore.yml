@@ -3,15 +3,15 @@ workflows:
   - subclass: CWL
     primaryDescriptorPath: /main.cwl
     testParameterFiles:
-      - test0.json
-      - test1.json
-      - test2.json
-      - test3.json
-      - test4.json
-      - test5.json
-      - test6.json
-      - test7.json
-      - test8.json
-      - test9.json
-      - test10.json
-      - test11.json
+      - /test0.json
+      - /test1.json
+      - /test2.json
+      - /test3.json
+      - /test4.json
+      - /test5.json
+      - /test6.json
+      - /test7.json
+      - /test8.json
+      - /test9.json
+      - /test10.json
+      - /test11.json
